@@ -2,7 +2,7 @@
 Repository for pipeline to predict structures from family of proteins
 
 ## Tree
-Root
+```Root
 ├── data
 │   ├── sequences
 │   └── structures
@@ -10,3 +10,4 @@ Root
 ├── README.md
 └── scripts
     └── getsequences.sh
+```
