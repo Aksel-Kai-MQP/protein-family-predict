@@ -1,8 +1,10 @@
 # protein-family-predict
-Repository for pipeline to predict structures from family of proteins
+By Aksel Jensen and Kai Davidson
+
+Repository for pipeline to predict structures from family of proteins.
 
 ## Tree
-```Root
+```
 ├── data
 │   ├── sequences
 │   └── structures
