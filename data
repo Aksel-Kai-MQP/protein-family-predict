@@ -1,0 +1,325 @@
+Sars-CoV-1
+  M Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XBR17121.1
+    Sequence
+       1 madngtitve elkqlleqwn lvigflflaw imllqfaysn rnrflyiikl vflwllwpvt
+       61 lacfvlavvy rinwvtggia iamacivglm wlsyfvasfr lfartrsmws fnpetnilln
+      121 vplrgtivtr plmeselvig aviirghlrm aghslgrcdi kdlpkeitva tsrtlsyykl
+      181 gasqrvgtds gfaaynryri gnyklntdha gsndniallv q
+    Structure ?!??!
+  E Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XBR17120.1
+    Sequence
+       1 mysfvseetg tlivnsvllf lafvvfllvt lailtalrlc ayccnivnvs lvkptvyvys
+       61 rvknlnsseg vpdllv
+    Structure https://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=2741940674
+  S Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/WKY20931.1
+    Sequence 
+       1 mkilifaflv tlvkaqegcg iisrkpqpkm aqvsssrrgv yynddifrsd vlhltqdyfl
+       61 pfdsnltqyf slnvdsdryt yfdnpildfg dgvyfaatek snvirgwifg stfdnttqsa
+      121 vivnnsthii irvcnfnlck epmytvsrgt qqsswvyqsa fnctydrver sfqldtapkt
+      181 gnfkdlreyv fknrdgflsv yqtytavnlp rglpigfsvl rpilklpfgi nitsyrvvma
+      241 mfsqttsnfl pesaayyvgn lkyttfmlrf nengtitdai dcaqnplael kctiknfnvs
+      301 kgiyqtsnfr vsptqevvrf pnitnrcpfd kvfnatrfps vyawertkis dcvadytvly
+      361 nstsfstfkc ygvspsklid lcftsvyadt flirssevrq vapgetgvia dynyklpddf
+      421 tgcviawnta qqdkgqyyyr ssrktklkpf erdlssdeng vrtlstydfy ptvpieyqat
+      481 rvvvlsfell napatvcgpk lstglvknqc vnfnfnglkg tgvltdsskr fqsfqqfgrd
+      541 tsdftdsvrd pqtlqvldit pcsfggvsvi tpgtnassev avlyqdvnct dvptairadq
+      601 ltpawrvyst gvnvfqtqag cligaehvna syecdipiga gicasyhtas tlrsvgqksi
+      661 vaytmslgae nsiayannsi aiptnfsisv ttevmpvsma ktsvdctmyi cgdsqecsnl
+      721 llqygsfctq lnraltgval eqdkntqevf aqvkqmyktp aikdfggfnf sqilpdpskp
+      781 tkrsfiedll fnkvtladag fmkqygeclg dinardlica qkfngltvlp plltddmiaa
+      841 ytaalvsgta tagwtfgaga alqipfamqm ayrfngigvt qnvlyenqkq ianqfnkais
+      901 qiqeslttts talgklqdvv nqnaqalntl vkqlssnfga issvlndils rldkveaevq
+      961 idrlitgrlq slqtyvtqql iraaeirasa nlaatkmsec vlgqskrvdf cgrgyhlmsf
+     1021 pqaaphgvvf lhvtyvpsqe knfttapaic hegkayfpre gvfvsngtsw fitqrnfysp
+     1081 qiittdntfv agncdvvigi inntvydplq peldsfkeel dkyfknhtsp dvdlgdisgi
+     1141 nasvvniqke idrlnevakn lneslidlqe lgkyeqyikw pwyvwlgfia gliaivmati
+     1201 llccmtsccs clkgacscgs cckfdeddse pvlkgvklhy t
+    Structure !?!??!
+  N Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XBR17123.1 
+    Sequence
+       1 msdngpqsnq rsapritfgg ptdstdnnqn ggrngarpkq rrpqglpnnt aswftaltqh
+       61 gkeelrfprg qgvpintnsg pddqigyyrr atrrvrggdg kmkelsprwy fyylgtgpea
+      121 slpygankeg ivwvategal ntpkdhigtr npnnnaatvl qlpqgttlpk gfyaegsrgg
+      181 sqassrsssr srgnsrnstp gssrgnspar masgggetal alllldrlnq leskvsgkgq
+      241 qqqgqtvtkk saaeaskkpr qkrtatkqyn vtqafgrrgp eqtqgnfgdq dlirqgtdyk
+      301 hwpqiaqfap sasaffgmsr igmevtpsgt wltyhgaikl ddkdpqfkdn villnkhida
+      361 yktfpptepk kdkkkktdea qplpqrqkkq ptvtllpaad mddfsrqlqn smsgasadst
+      421 qa
+    Structure https://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=2741940677
+  
+Sars-CoV-2
+  M Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/QQJ95383.1
+    Sequence
+      1 madsngtitv eelkklleqw nlvigflflt wicllqfaya nrnrflyiik liflwllwpv
+       61 tlacfvlaav yrinwitggi aiamaclvgl mwlsyfiasf rlfartrsmw sfnpetnill
+      121 nvplhgtilt rplleselvi gavilrghlr iaghhlgrcd ikdlpkeitv atsrtlsyyk
+      181 lgasqrvagd sgfaaysryr ignyklntdh ssssdniall vq
+    Structure https://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=1951774942
+  E Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009724392.1
+    Sequence
+        1 mysfvseetg tlivnsvllf lafvvfllvt lailtalrlc ayccnivnvs lvkpsfyvys
+       61 rvknlnssrv pdllv
+    Structure https://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=1796318600
+  S Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/QHD43416.1
+    Sequence
+      1 mfvflvllpl vssqcvnltt rtqlppaytn sftrgvyypd kvfrssvlhs tqdlflpffs
+       61 nvtwfhaihv sgtngtkrfd npvlpfndgv yfasteksni irgwifgttl dsktqslliv
+      121 nnatnvvikv cefqfcndpf lgvyyhknnk swmesefrvy ssannctfey vsqpflmdle
+      181 gkqgnfknlr efvfknidgy fkiyskhtpi nlvrdlpqgf saleplvdlp iginitrfqt
+      241 llalhrsylt pgdsssgwta gaaayyvgyl qprtfllkyn engtitdavd caldplsetk
+      301 ctlksftvek giyqtsnfrv qptesivrfp nitnlcpfge vfnatrfasv yawnrkrisn
+      361 cvadysvlyn sasfstfkcy gvsptklndl cftnvyadsf virgdevrqi apgqtgkiad
+      421 ynyklpddft gcviawnsnn ldskvggnyn ylyrlfrksn lkpferdist eiyqagstpc
+      481 ngvegfncyf plqsygfqpt ngvgyqpyrv vvlsfellha patvcgpkks tnlvknkcvn
+      541 fnfngltgtg vltesnkkfl pfqqfgrdia dttdavrdpq tleilditpc sfggvsvitp
+      601 gtntsnqvav lyqdvnctev pvaihadqlt ptwrvystgs nvfqtragcl igaehvnnsy
+      661 ecdipigagi casyqtqtns prrarsvasq siiaytmslg aensvaysnn siaiptnfti
+      721 svtteilpvs mtktsvdctm yicgdstecs nlllqygsfc tqlnraltgi aveqdkntqe
+      781 vfaqvkqiyk tppikdfggf nfsqilpdps kpskrsfied llfnkvtlad agfikqygdc
+      841 lgdiaardli caqkfngltv lpplltdemi aqytsallag titsgwtfga gaalqipfam
+      901 qmayrfngig vtqnvlyenq klianqfnsa igkiqdslss tasalgklqd vvnqnaqaln
+      961 tlvkqlssnf gaissvlndi lsrldkveae vqidrlitgr lqslqtyvtq qliraaeira
+     1021 sanlaatkms ecvlgqskrv dfcgkgyhlm sfpqsaphgv vflhvtyvpa qeknfttapa
+     1081 ichdgkahfp regvfvsngt hwfvtqrnfy epqiittdnt fvsgncdvvi givnntvydp
+     1141 lqpeldsfke eldkyfknht spdvdlgdis ginasvvniq keidrlneva knlneslidl
+     1201 qelgkyeqyi kwpwyiwlgf iagliaivmv timlccmtsc csclkgccsc gscckfdedd
+     1261 sepvlkgvkl hyt
+    Structure https://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=1791269090
+  N Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/QLG69207.1
+    Sequence
+      1 msdngpqnqr napritfggp sdstgsnqng ersgarskqr rpqglpnnta swftaltqhg
+       61 kedlkfprgq gvpintnssp ddqigyyrra trrirggdgk mkdlsprwyf yylgtgpeag
+      121 lpygankdgi iwvategaln tpkdhigtrn pannaaivlq lpqgttlpkg fyaegsrggs
+      181 qassrsssrs rnssrnstpg sskrtsparm agnggdaala lllldrlnql eskmsgkgqq
+      241 qqgqtvtkks aaeaskkprq krtatkaynv tqafgrrgpe qtqgnfgdqe lirqgtdykh
+      301 wpqiaqfaps asaffgmsri gmevtpsgtw ltytgaikld dkdpnfkdqv illnkhiday
+      361 ktfpptepkk dkkkkadetq alpqrqkkqq tvtllpaadl ddfskqlqqs mssadstqa
+    Structure !?!?
+  
+MERS-CoV
+  M Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009047210.1
+    Sequence
+      1 msnmtqltea qiiaiikdwn fawsliflli tivlqygyps rsmtvyvfkm fvlwllwpss
+       61 malsifsavy pidlasqiis givaavsamm wisyfvqsir lfmrtgswws fnpetnclln
+      121 vpfggttvvr plvedstsvt avvtnghlkm agmhfgacdy drlpnevtva kpnvlialkm
+      181 vkrqsygtns gvaiyhryka gnyrsppita dielallra
+    Structure !??!?
+  E Protein 
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009047209.1
+    Sequence
+      1 mlpfvqerig lfivnffift vvcaitllvc mafltatrlc vqcmtgfntl lvqpalylyn
+       61 tgrsvyvkfq dskpplppde wv
+    Structure https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?Dopt=s&uid=218350
+  S Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009047204.1
+    Sequence
+      1 mihsvfllmf lltptesyvd vgpdsvksac ievdiqqtff dktwprpidv skadgiiypq
+       61 grtysnitit yqglfpyqgd hgdmyvysag hatgttpqkl fvanysqdvk qfangfvvri
+      121 gaaanstgtv iispstsati rkiypafmlg ssvgnfsdgk mgrffnhtlv llpdgcgtll
+      181 rafycilepr sgnhcpagns ytsfatyhtp atdcsdgnyn rnaslnsfke yfnlrnctfm
+      241 ytynitedei lewfgitqta qgvhlfssry vdlyggnmfq fatlpvydti kyysiiphsi
+      301 rsiqsdrkaw aafyvyklqp ltflldfsvd gyirraidcg fndlsqlhcs yesfdvesgv
+      361 ysvssfeakp sgsvveqaeg vecdfsplls gtppqvynfk rlvftncnyn ltkllslfsv
+      421 ndftcsqisp aaiasncyss lildyfsypl smksdlsvss agpisqfnyk qsfsnptcli
+      481 latvphnltt itkplkysyi nkcsrllsdd rtevpqlvna nqyspcvsiv pstvwedgdy
+      541 yrkqlspleg ggwlvasgst vamteqlqmg fgitvqygtd tnsvcpklef andtkiasql
+      601 gncveyslyg vsgrgvfqnc tavgvrqqrf vydayqnlvg yysddgnyyc lracvsvpvs
+      661 viydketkth atlfgsvace hisstmsqys rstrsmlkrr dstygplqtp vgcvlglvns
+      721 slfvedcklp lgqslcalpd tpstltprsv rsvpgemrla siafnhpiqv dqlnssyfkl
+      781 siptnfsfgv tqeyiqttiq kvtvdckqyv cngfqkceql lreygqfcsk inqalhganl
+      841 rqddsvrnlf asvkssqssp iipgfggdfn ltllepvsis tgsrsarsai edllfdkvti
+      901 adpgymqgyd dcmqqgpasa rdlicaqyva gykvlpplmd vnmeaaytss llgsiagvgw
+      961 taglssfaai pfaqsifyrl ngvgitqqvl senqkliank fnqalgamqt gftttneafq
+     1021 kvqdavnnna qalsklasel sntfgaisas igdiiqrldv leqdaqidrl ingrlttlna
+     1081 fvaqqlvrse saalsaqlak dkvnecvkaq skrsgfcgqg thivsfvvna pnglyfmhvg
+     1141 yypsnhievv sayglcdaan ptnciapvng yfiktnntri vdewsytgss fyapepitsl
+     1201 ntkyvapqvt yqnistnlpp pllgnstgid fqdeldeffk nvstsipnfg sltqinttll
+     1261 dltyemlslq qvvkalnesy idlkelgnyt yynkwpwyiw lgfiaglval alcvffilcc
+     1321 tgcgtncmgk lkcnrccdry eeydlephkv hvh
+    Structure https://www.ncbi.nlm.nih.gov/structure?Db=structure&DbFrom=protein&Cmd=Link&LinkName=protein_structure&LinkReadableName=Structure&IdsFromResult=667489389
+  N Protein 
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009047211.1
+    Sequence
+      1 maspaaprav sfadnnditn tnlsrgrgrn pkpraapnnt vswytgltqh gkvpltfppg
+       61 qgvplnanst paqnagywrr qdrkintgng ikqlaprwyf yytgtgpeaa lpfravkdgi
+      121 vwvhedgatd apstfgtrnp nndsaivtqf apgtklpknf hiegtggnsq sssrasslsr
+      181 nssrsssqgs rsgnstrgts pgpsgigavg gdllyldlln rlqalesgkv kqsqpkvitk
+      241 kdaaaaknkm rhkrtstksf nmvqafglrg pgdlqgnfgd lqlnklgted prwpqiaela
+      301 ptasafmgms qfklthqnnd dhgnpvyflr ysgaikldpk npnynkwlel leqnidaykt
+      361 fpkkekkqka pkeestdqms eppkeqrvqg sitqrtrtrp svqpgpmidv ntd
+    Structure !??!?!
+  
+Bovine Coronavirus
+  M Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XQJ32718.1
+    Sequence
+        1 mssvttpapv ytwtadeaik flkewnfslg iillfitvil qfgytsrsmf vyvikmiilw
+       61 lmwpltiilt ifncvyalnn vylgfsivft ivaiimwivy fvnsirlfir tgswwsfnpe
+      121 tnnlmsidmk grmyvrpiie dyhtltvtii rghlymqgik lgtgyslsdl payvsvakvs
+      181 hlltykrgfl dkigdtsgfa vyvkskvgny rlpstqkgsg ldtallrnni
+    Structure ?!?!?!
+  E Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XQJ32717.1
+    Sequence
+        1 mfmadayfad tvwyvgqiif ivaicllvii vvvaflatfk lciqlcgmcn tlvlspsiyv
+       61 fnrgrqfyef yndvkppvld vddv
+    Structure ?!?!?!
+  S Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/YAB42535.1
+    Sequence
+       1 mflillislp tafavigdlk cttvsindvd tgvpsistdt vdvtnglgty yvldrvylnt
+       61 tlllngyypt sgstyrnmal kgtlllstlw fkppflsdft ngifakvknt kvikdgvmys
+      121 efpaitigst fvntsysvvv qprttilgnk lqgfleisvc qytmceypnt icnsnlgnrr
+      181 velwhwdtgv vsclykrnft ydvnayylyf hfyqeggtfy ayftdtgvvt kflfnvylgt
+      241 vlshyyvmpl tcnsaltley wvtpltskqy llafnqdgvi fnavdcksdf mseikcktls
+      301 iapstgvyel ngytvqpiad vyrripnlpd cnieawlndk svpsplnwer ktfsncnfnm
+      361 sslmsfiqad sftcnnidaa kiygmcfssi tidkfaipng rkvdlqlgnl gylqsfnyri
+      421 dttatscqly ynlpaanvsv srfnpstwnr rfgfteqsvf kpqpagvftd hdvvyaqhcf
+      481 kaptnfcpck ldgslcvgsg sgidagykht gigtcpagtn yltchnaaqc dclctpdpit
+      541 skatgpykcp qtkylvgige hcsglaiksd hcggnpcscq pqaflgwsvd scllgdrcni
+      601 fanfilhdvn sgttcstdlq ksntdiilgv cvnydlygit gqgifvevna tyynswqnll
+      661 ydsngnlygf rdyltnrtfm irscysgrvs aafhanssep allfrnikcn yvfnntllrq
+      721 lqpinyfdsy lgcvvnadns tssvvqtcdl tvgsgycvdy stkrrsrrsi ttgyrftnfe
+      781 pftvnsvnds lepvgglyei qipseftign meefiqtssp kvtidcsafv cgdyaacksq
+      841 lveygsfcdn inailtevne lldttqlqva nslmngvtls tklkdgvnfn vddinfspvl
+      901 gclgsdcnkv ssrsaiedll fskvklsdvg fveaynnctg gaeirdlicv qsyngikvlp
+      961 pllsenqisg ytlaatsasl fppwsaaagv pfylnvqyri ngigvtmdvl sqnqkliana
+     1021 fnnalgaiqe gfdatnsalv kiqavvnana ealnnllqql snrfgaisss lqeilsrlda
+     1081 leaqaqidrl ingrftalna yvsqqlsdst lvkfsaaqam ekvnecvksq ssrinfcgng
+     1141 nhiislvqna pyglyfihfs yvptkyvtak vspglciagd rgiapksgyf vyvnntwmft
+     1201 gsgyyypepi tgnnvvvmst cavnytkapd vmlnistpnl pdfkeeldqw fknqtsvapd
+     1261 lsldyinvtf ldlqdemnrl qeaikvlnqs yinlkdigty eyyvkwpwyv wlligfagva
+     1321 mlvllfficc ctgcgtscfk kcggccddyt ghqelvikts hed
+    Structure ?!?!?
+  N Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/NP_150083.1
+    Sequence
+       1 msftpgkqss srassgnrsg ngilkwadqs dqsrnvqtrg rraqpkqtat sqqpsggnvv
+       61 pyyswfsgit qfqkgkefef aegqgvpiap gvpateakgy wyrhnrrsfk tadgnqrqll
+      121 prwyfyylgt gphakdqygt didgvywvas nqadvntpad ildrdpssde aiptrfppgt
+      181 vlpqgyyieg sgrsapnsrs tsrassrass agsrsransg nrtptsgvtp dmadqiaslv
+      241 laklgkdaak pqqvtkqtak eirqkilnkp rqkrspnkqc tvqqcfgkrg pnqnfgggem
+      301 lklgtsdpqf pilaelapta gafffgsrle lakvqnlsgn ldepqkdvye lryngairfd
+      361 stlsgfetim kvlnenlnay qqqdgtmnms pkpqrqrgqk ngqgendnis vaapksrvqq
+      421 nkireltaed isllkkmdep ftedtsei
+    Structure !??!?!
+  
+Murine Coronavirus
+  M Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009824986.1
+    Sequence
+      1 mssttqapep vyqwtadeav qflkewnfsl giillfitii lqfgytsrsm fiyvvkmiil
+       61 wlmwpltivl cifncvyaln nvylgfsivf tivsiviwim yfvnsirlfi rtgswwsfnp
+      121 etnnlmcidm kgtvyvrpii edyhtltati irghlymqgv klgtgfslsd lpayvtvakv
+      181 shlctykraf ldkvdgvsgf avyvkskvgn yrlpsnkpsg adtallrt
+    Structure ?!?!
+  E Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/YP_009944252.1
+    Sequence
+      1 mfnlfltdtv wyvgqiifif avclmvtiiv vaflasiklc iqlcglcntl vlspsiylyd
+       61 rskqlykyyn eemrlpllev ddi
+    Structure !??!?!
+  S Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XKH98969.1
+    Sequence
+      1 mlfvfilflp sclgyigdfr ciqlvnsnga nvsapsiste tvevsqglgt yyvldrvyln
+       61 atllltgyyp vdgskfrnla ltgtnsvsls wfqppylsqf ndgifakvqn lktstpsgat
+      121 ayfptivigs lfgytsytvv iepyngvima svcqyticql pytdckpntn gnkligfwht
+      181 dvkppicvlk rnftlnvnad afyfhfyqhg gtfyayyadk psattflfsv yigdiltqyy
+      241 vlpficnpta gstfaprywv tplvkrqylf nfnqkgvits avdcassyts eikcktqsml
+      301 pstgvyelsg ytvqpvgvvy rrvanlpacn ieewltarsv psplnwerkt fqncnfnlss
+      361 llryvqaesl fcnnidaskv ygrcfgsisv dkfavprsrq vdlqlgnsgf lqtanykidt
+      421 aatscqlhyt lpknnvtinn hnpsswnrry gfndagvfgk nqhdvvyaqq cftvrssycp
+      481 caqpdivspc ttqtkpksaf vnvgdhcegl gvledncgna dphkgcican nsfigwshdt
+      541 clvndrcqif anillngins gttcstdlql pntevvtgic vkydlygitg qgvfkevkad
+      601 yynswqtlly dvngnlngfr dlttnktyti rscysgrvsa afhkdapepa llyrnincsy
+      661 vfsnnisree nplnyfdsyl gcvvnadnrt dealpncdlr mgaglcvdys ksrrahrsvs
+      721 tgyrlttfep ytpmlvndsv qsvdglyemq iptnftighh eefiqtrspk vtidcaafvc
+      781 gdntacrqql veygsfcvnv nailnevnnl ldnmqlqvas almqgvtiss rlpdgisgpi
+      841 ddinfspllg cigstcaedg ngpsairgrs aiedllfdkv klsdvgfvea ynnctggqev
+      901 rdllcvqsfn gikvlppvls esqisgyttg ataaamfppw saaagvpfsl svqyringlg
+      961 vtmnvlsenq kmiasafnna lgaiqdgfda tnsalgkiqs vvnanaealn nllnqlsnrf
+     1021 gaisaslqei ltrleaveak aqidrlingr ltalnayisk qlsdstlikv saaqaiekvn
+     1081 ecvksqttri nfcgngnhil slvqnapygl yfihfsyvpi sfttanvspg lcisgdrgla
+     1141 pkagyfvqdd gewkftgssy yypepitdkn svimsscavn ytkapevfln tsipnppdfk
+     1201 eeldkwfknq tsiapdlsld feklnvtlld ltyemnriqd aikklnesyi nlkevgtyem
+     1261 yvkwpwyvwl liglagvavc vllfficcct gcgsccfkkc gnccdeyggh qdsivihnis
+     1321 shed
+    Structure ?!?!?!
+  N Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/XKH98969.1
+    Sequence
+      1 msfvpgqena ggrsssvnra gngilkkttw adqtergpnn qnrgrrnqpk qtattqpnsg
+       61 svvphyswfs gitqfqkgke fqfaegqgvp iangipaseq kgywyrhnrr sfktpdgqqk
+      121 qllprwyfyy lgtgphagas ygdsiegvfw vansqadtnt rsdiverdps sheaiptrfa
+      181 pgtvlpqgfy vegsgrsapa srsgsrsqsr gpnnrarsss nqrqpastvk pdmaeeiaal
+      241 vlaklgkdag qpkqvtkqsa kevrqkilnk prqkrtpnkq cpvqqcfgkr gpnqnfggse
+      301 mlklgtsdpq fpilaelapt vgafffgskl elvkknsgga deptkdvyel qysgavrfds
+      361 tlpgfetimk vlnenlnayq kdggadvvsp kpqrkgrrqa qekkdevdnv svakpkssvq
+      421 rnvsreltpe drsllaqild dgvvpdgled dsnv
+    Structure https://www.ncbi.nlm.nih.gov/Structure/mmdb/mmdbsrv.cgi?Dopt=s&uid=78165
+  
+Human Coronavirus HCoV-HKU1
+  M Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/BHD20875.1
+    Sequence
+        1 mnksffpqft sdqavtflke wnfslgvill fitiilqfgy tsrsmfvyfi kmiilwlmwp
+       61 ltitltifnc fyalnnafla fsivftiisi viwilyfvns irlfirtgsw wsfnpetnnl
+      121 mcidmkgkmf vrpviedyht ltatvirghl yiqgvklgtg ytlsdlpvyv tvakvqvlct
+      181 ykrafldkld vnsgfavfvk skvgnyrlps skpsgmdtal lra
+    Structure ?!?!?!
+  E Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/BHD20874.1
+    Sequence
+       1 mvdlffndta wyigqilvlv lfclislifv vaflatiklc mqlcgfcnff iispsayvyk
+       61 rgmqlyksys eqvipptsdy li
+    Structure !?!?!?
+  S Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/BHD20872.1
+    Sequence
+       1 mlliifilpt tlavigdfnc tnfaindknt tvpriseyvv dvsyglgtyy ildrvylnat
+       61 ilftgyfpka ganfrdlslk gttflstlwy qkpflsdfnn gifsrvkntk lyvnktlyse
+      121 fstivigsvf innsytivvq phngvleita cqytmceyph tickskgsfr neswhfdkse
+      181 plclfkknft ynvstdwlyf hfyqergtfy ayyadsgmpt tflfslylgt llshyyvlpl
+      241 tcnaissntd netlqywvtp lskrqyllkf dnrgvitnav dcsssffsei qcktksllpn
+      301 tgvydlsgft vkpvatvhlr ipdlpdcdid kwlnnfnvss plnwerkifs ncnfnfstll
+      361 rlvhtdsfsc nnfdeskiyg scfksiildk faipnsrrsd lqlgssgflq ssnykidtts
+      421 sscqlyyslp ainvtinnyn psswnrrygf nnfnlsshsr tdvvysrycf svnntfcpca
+      481 npsfasscks hkppsascpi gtnyrscest tvldrtdwcr csclpdpita ydprscsqkk
+      541 slvgvgehca gfgvdeekcg vldgsynasc lcstdaflgw sydtcvsnnr cnifsnfiln
+      601 ginsgttcsn dllqpntevf tdvcvdydly gitgqgifke vsaayynswq nflydsngni
+      661 igfkdfvtnk tynifpcyag rvsaafhqna sslallyrnl kcsyvlnnis latqpyfdsy
+      721 lgcvfnadnl tdysvsscal rmgsgfcvdy nspsssssrr krrsisasyr fvtfepfnvs
+      781 fvndsiesvg glyeikiptn ftivgqeefi qtnspkvtid cslfvcsnya achellseyg
+      841 tfcdninsil devnglldtt qlhvadtlmq gvtlssnlnt nlhfdvdnin fkslvgclgp
+      901 hcgsssrsff edllfdkvkl sdvgfveayn nctggseird llcvqsfngi kvlppilses
+      961 qisgyttaat vaamfppwsa aagipfslnv qyringlgvt mdvlnknqkl iatafnnall
+     1021 siqngfsatn salakiqsvv nsnaqalnsl lqqlfnkfga issslqeils rldaleaqvq
+     1081 idrlingrlt alnayvsqql syislvkfga alamekvnec vksqsprinf cgngnhilsl
+     1141 vqnapygllf mhfsykpisf ktvlvspglc isgdvgiapk qgyfikhndh wmftgssyyy
+     1201 pepisdknvv fmntcsvnft kaplvylnhs vpklsdfese lshwfknqts iapnltlnlh
+     1261 tinatfldly yemnliqesi kslnnsyinl kdigtyemyv kwpwyvwlli sfsfiiflvl
+     1321 lfficcctgc gsacfskchn ccdeygghhd fviktshdd
+    Structure ?!?!?
+  N Protein
+    Link https://www.ncbi.nlm.nih.gov/protein/BHD20876.1
+    Sequence
+       1 msytpghyag srsssgnrsg ilkktswadq sernyqtfnr grktqpkftv stqpqgntip
+       61 hyswfsgitq fqkgrdfkfs dgqgvpiafg vppseakgyw yrhsrrsfkt adgqqkqllp
+      121 rwyfyylgtg pyanasyges legvfwvanh qadtstpsdv ssrdpttqea iptrfppgti
+      181 lpqgyyvegs grsasnsrps srsqsrgpnn rslsrsnsnf rhsdsivkpd madeianlvl
+      241 aklgkeskpq qvtkqnakei rhkiltkprq krtpnkhcnv qqcfgkrgpf qnfgnaemlk
+      301 lgtndpqfpi laelaptpga fffgsklelv kreseadspv kdvfelrysg sirfdstlpg
+      361 fetimkvlke nldayvnsnq ntvsgslspk pqrkrgvkqs pelfdslnls adtqhisndf
+      421 tpedhsllat lddpyvedsv a
+    Structure ?!?!?!
+  
