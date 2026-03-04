@@ -1,0 +1,19 @@
+[{
+ "name": "M_Protein_Murine_CoV_2025-11-12_18:29",
+ "modelSeeds": [
+  "1268273794"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MSSTTQAPGPVYQWTADEAVQFLKEWNFSLGIILLFITIILQFGYTSRSMFIYVVKMIILWLMWPLIIVLCMFNCVYALNNVYLGFSIVFTIVSVVMWIMYFVNSIRLFIRTGSWWSFNPETNNLMCIDMKGTVYVRPIIEDYHTLTATIIRGHFYMQGVKLGTGFSLSDLPAYVTVAKVSHLCTYKRAFLDKVDGVSGFAVYVKSKVGNYRLPSNKPSGADTVLLRI",
+    "count": 2,
+    "useStructureTemplate": true,
+    "maxTemplateDate": "2025-02-02"
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

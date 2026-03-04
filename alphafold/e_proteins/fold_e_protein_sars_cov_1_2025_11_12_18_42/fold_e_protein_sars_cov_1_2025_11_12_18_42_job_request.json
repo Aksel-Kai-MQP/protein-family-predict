@@ -1,0 +1,19 @@
+[{
+ "name": "E_Protein_Sars_CoV_1_2025-11-12_18:42",
+ "modelSeeds": [
+  "303550413"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPTVYVYSRVKNLNSSEGVPDLLV",
+    "count": 5,
+    "useStructureTemplate": true,
+    "maxTemplateDate": "2025-02-02"
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

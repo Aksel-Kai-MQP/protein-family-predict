@@ -1,0 +1,19 @@
+[{
+ "name": "M_Protein_HCoV_HKU1_2025-11-12_18:29",
+ "modelSeeds": [
+  "1580978865"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MNKSFLPQFTSDQAVTFLKEWNFSLGVILLFITIILQFGYTSRSMFVYLIKMIILWLMWPLTITLTIFNCFYALNNAFLAFSIVFTIISIVIWILYFVNSIRLFIRTGSWWSFNPETNNLMCIDMKGKMFVRPVIEDYHTLTATVIRGHLYIQGVKLGTGYTLSDLPVYVTVAKVQVLCTYKRAFLDKLDVNSGFAVFVKSKVGNYRLPSSKPSGMDTALLRA",
+    "count": 2,
+    "useStructureTemplate": true,
+    "maxTemplateDate": "2025-02-02"
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
