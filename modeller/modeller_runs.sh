@@ -44,8 +44,6 @@ for protein_dir in "$SCRIPT_DIR"/{e_protein,m_protein,n_protein,s_protein}; do
 		done
 	fi
 done
-
-# Ending message
 echo ""
 echo "=========================================="
 echo "All directories processed."
