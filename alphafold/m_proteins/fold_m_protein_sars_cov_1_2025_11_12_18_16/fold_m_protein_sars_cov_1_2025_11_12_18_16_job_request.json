@@ -1,0 +1,19 @@
+[{
+ "name": "M_Protein_Sars_CoV_1_2025-11-12_18:16",
+ "modelSeeds": [
+  "151320367"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MADNGTITVEELKQLLEQWNLVIGFLFLAWIMLLQFAYSNRNRFLYIIKLVFLWLLWPVTLACFVLAAVYRINWVTGGIAIAMACIVGLMWLSYFVASFRLFARTRSMWSFNPETNILLNVPLRGTIVTRPLMESELVIGAVIIRGHLRMAGHSLGRCDIKDLPKEITVATSRTLSYYKLGASQRVGTDSGFAAYNRYRIGNYKLNTDHAGSNDNIALLVQ",
+    "count": 2,
+    "useStructureTemplate": true,
+    "maxTemplateDate": "2025-02-02"
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

@@ -1,2 +1,6 @@
-data/sequences/*
-data/structures/*
+*.rsr
+*.sch
+*.V99990001
+*.ini
+*.D00000001
+.vscode

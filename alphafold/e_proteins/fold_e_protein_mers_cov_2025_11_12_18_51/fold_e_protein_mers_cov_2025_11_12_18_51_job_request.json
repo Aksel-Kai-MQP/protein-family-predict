@@ -1,0 +1,19 @@
+[{
+ "name": "E_Protein_MERS_CoV_2025-11-12_18:51",
+ "modelSeeds": [
+  "2715597"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MLPFVQERIGLFIVNFFIFTVVCAITLLVCMAFLTATRLCVQCMTGFNTLLVQPALYLYNTGRSVYVKFQDSKPPLPPDEWV",
+    "count": 5,
+    "useStructureTemplate": true,
+    "maxTemplateDate": "2025-02-02"
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]
