@@ -31,6 +31,14 @@ The repository structure has disjoint folders for each of the steps of the proce
 │   ├── m_protein
 │   ├── n_protein
 │   └── s_protein
+├── gromacs
+│   └── parameters
 ├── README.md
 └── scripts
 ```
+
+## GROMACS
+
+Before running the gromacs section of the code, which are jobs that can be dispatched with slurm. You must install the forcefield files for the CHARMM36 FF from [here](https://mackerell.umaryland.edu/charmm_ff.shtml#gromacs). We used version `charmm36-feb2026_cgenff-5.0.ff`.
+
+All scripts used for running GROMACS simulations are in the gromacs folder. These scripts were either copied between protein species folders and each species simulation was run in its own folder, ex. `s_proteins/bovine_coronavirus/start_eq.sh`. Then some scripts were put in top level folders ex. `s_proteins` to coordinate running analysis or otherwise. Most are self-explanatory
